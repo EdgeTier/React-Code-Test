@@ -1,0 +1,72 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "title": "Here Comes the Sun",
+            "clues": {
+                "album": "Abbey Road",
+                "members": ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Smells Like Teen Spirit",
+            "clues": {
+                "album": "Nevermind",
+                "members": ["Kurt Cobain", "Dave Grohl", "Krist Novoselic"]
+            }
+        },
+        {
+            "id": 3,
+            "title": "Dreams",
+            "clues": {
+                "album": "Rumours",
+                "members": ["Stevie Nicks", "Lindsey Buckingham", "Christine McVie", "Mick Fleetwood", "John McVie"]
+            }
+        },
+        {
+            "id": 4,
+            "title": "Last Nite",
+            "clues": {
+                "album": "Is This It",
+                "members": [
+                    "Julian Casablancas",
+                    "Nick Valensi",
+                    "Albert Hammond Jr.",
+                    "Nikolai Fraiture",
+                    "Fabrizio Moretti"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "title": "Everything in its Right Place",
+            "clues": {
+                "album": "Kid A",
+                "members": ["Thom Yorke", "Jonny Greenwood", "Ed O'Brien", "Philip Selway", "Colin Greenwood"]
+            }
+        }
+    ],
+    "answers": [
+        {
+            "questionId": 1,
+            "text": "The Beatles"
+        },
+        {
+            "questionId": 2,
+            "text": "Nirvana"
+        },
+        {
+            "questionId": 3,
+            "text": "Fleetwood Mac"
+        },
+        {
+            "questionId": 4,
+            "text": "The Stokes"
+        },
+        {
+            "questionId": 5,
+            "text": "Radiohead"
+        }
+    ]
+}

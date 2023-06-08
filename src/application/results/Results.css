@@ -1,0 +1,7 @@
+.results {
+    background-color: #f6b93b;
+    display: inline-block;
+    padding: 20px;
+    border-radius: var(--border-radius);
+    color: #0a3d62;
+}
