@@ -14,7 +14,7 @@ Uses a standard [Vite](https://vitejs.dev/) setup. Node and Yarn required.
 
 Make a quiz that asks users to guess a series of band names from a song. There are five bands/questions in total. After each guess, let the user know if the answer is correct or incorrect and show the next song.
 
-To save time, we have provided a starting point and some components already made. CSS has also been provided so you don't have to write that (unless you would like to change the appearance, then feel free). You only really need to edit <Application />, </Question /> and/or any new components you'd like to add. Existing components provided that are more or less complete (you probably don't need to edit these):
+To save time, we have provided a starting point and some components already made. CSS has also been provided so you don't have to write that (unless you would like to change the appearance, then feel free). You only really need to edit `<Application />`, `</Question />` and/or any new components you'd like to add. Existing components provided that are more or less complete (you probably don't need to edit these):
 
 `<Button />`: Render a button with an icon.
 
