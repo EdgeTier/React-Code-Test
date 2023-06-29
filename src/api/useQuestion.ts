@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-interface Question {
+export interface Question {
     readonly id: number;
     readonly title: string;
     readonly clues: {

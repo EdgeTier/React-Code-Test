@@ -34,7 +34,7 @@ To save time, we have provided a starting point and some components already made
 
 ## API
 
-The questions come from a fake backend (using [json-server](https://github.com/typicode/json-server)). It has a delay on the responses to simulate a real API's behaviour. You don't need to write any API code, it exists already in `/src/api`. You can call `useQuestion(questionId)` to get a question and `useAnswer(questionId)` to get the answer for that question. Example:
+The questions come from a fake backend (using [json-server](https://github.com/typicode/json-server)). It has a delay on the responses to simulate a real API's behaviour. You don't need to write any API code, it exists already in `/src/api`. You can call `useQuestionIds()` to get all question IDs to show in the quiz, `useQuestion(questionId)` to get a question's details and `useAnswer(questionId)` to get the answer for that question. Example:
 
 ```typescript
 // Get the first question.
