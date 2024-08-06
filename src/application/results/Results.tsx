@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import "./Results.css";
+import "./Results.scss";
 
 type ResultsProps = {
     readonly correctCount: number;
